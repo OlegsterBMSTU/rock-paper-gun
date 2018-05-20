@@ -1,8 +1,5 @@
 /* Stylesheet */
 
-/* 
-???? ?????? ? ????? http://phpguru.com.ua 
-*/
 /* Imports */
 
 @import url(animate.css);
@@ -28,7 +25,7 @@ html, body {
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
 	color: #444;
 	-webkit-font-smoothing: antialiased;
-	background: url(../img/bg.png) repeat;
+	background: url(../images/bg.png) repeat;
 	
 }
 
